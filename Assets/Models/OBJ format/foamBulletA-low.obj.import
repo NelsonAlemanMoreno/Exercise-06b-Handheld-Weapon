@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/foamBulletA-low.obj-d83aa0e89f5ddf6137ce85ff1cc6456e.mesh"
+
+[deps]
+
+files=[ "res://.import/foamBulletA-low.obj-d83aa0e89f5ddf6137ce85ff1cc6456e.mesh" ]
+
+source_file="res://Assets/Models/OBJ format/foamBulletA-low.obj"
+dest_files=[ "res://.import/foamBulletA-low.obj-d83aa0e89f5ddf6137ce85ff1cc6456e.mesh", "res://.import/foamBulletA-low.obj-d83aa0e89f5ddf6137ce85ff1cc6456e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
